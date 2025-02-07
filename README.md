@@ -3,17 +3,17 @@
 **About This Project**
 This project demonstrates the automation of a CI/CD pipeline for a Dockerized Node.js application using Jenkins and Kubernetes (Kind Cluster). It follows DevOps best practices by integrating:
 
-# Continuous Integration (CI): Automates the build and testing process to ensure code quality.
-# Continuous Deployment (CD): Deploys the application to a Kubernetes Kind cluster with minimal manual intervention.
-# Dockerization: Packages the application into a container for consistent deployment across different environments.
-# Kubernetes Deployment: Ensures scalability and efficient resource management through container orchestration.
+ Continuous Integration (CI): Automates the build and testing process to ensure code quality.
+ Continuous Deployment (CD): Deploys the application to a Kubernetes Kind cluster with minimal manual intervention.
+ Dockerization: Packages the application into a container for consistent deployment across different environments.
+ Kubernetes Deployment: Ensures scalability and efficient resource management through container orchestration.
 
 **Why This Project?**
 In modern DevOps workflows, automation plays a crucial role in enhancing efficiency, reliability, and scalability. This project is designed to bridge the gap between development and operations teams, ensuring a seamless deployment process while reducing manual effort.
 
-# Efficient and Reliable Deployments: Each code change is automatically built, tested, and deployed, reducing errors and improving release cycles.
-# Scalability with Kubernetes: The application runs within a local Kubernetes Kind cluster, replicating real-world production environments.
-# Effective Image Management: The Dockerized application is stored in Docker Hub, ensuring centralized and version-controlled image distribution.
+ Efficient and Reliable Deployments: Each code change is automatically built, tested, and deployed, reducing errors and improving release cycles.
+ Scalability with Kubernetes: The application runs within a local Kubernetes Kind cluster, replicating real-world production environments.
+ Effective Image Management: The Dockerized application is stored in Docker Hub, ensuring centralized and version-controlled image distribution.
 By implementing this project, teams can achieve faster software delivery, better resource utilization, and a more reliable deployment process, making it a valuable addition to any DevOps workflow.
 
 # CI/CD for Dockerized Applications on Kubernetes Kind Cluster
